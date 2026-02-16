@@ -1,4 +1,14 @@
+---
+id: B00.CH01
+book: B00
+chapter: CH01
+type: chapter-index
+status: draft
+---
+
 # B00.CH01 — Kernel: Core Spec as Canon
+
+## Paragraphs
 
 - [B00.CH01.P01 — Purpose and function of the Core Spec](P01.md)
 - [B00.CH01.P02 — Scope delimitation and layer model](P02.md)
