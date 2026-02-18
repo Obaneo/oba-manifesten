@@ -1,1 +1,784 @@
+| id         | book | chapter | type    | status |
+|------------|------|---------|---------|--------|
+| B03.OUTLINE | B03  | —       | outline | draft  |
+
+# B03 — Outline (English)
+
+## B03.TITLE — Order-Democracy, Movement and Political Interface
+
+## B03.CH01 — Kernel: OBA core in one page (reference to Kernel Spec)
+
+- B03.CH01.P01 — Purpose and scope of the kernel (summary layer; no redefinition)
+  - B03.CH01.P01.S01 — Kernel as the interface between the political book and the Kernel Spec
+  - B03.CH01.P01.S02 — Scope: which core claims are politically relevant
+  - B03.CH01.P01.S03 — Out of scope: economic elaboration (Book 1) and transition toolkit (Book 2)
+  - B03.CH01.P01.S04 — Reading rule: refer instead of rephrasing (anti-drift)
+
+- B03.CH01.P02 — Constitutive invariants (non-negotiables) as democratic boundary conditions
+  - B03.CH01.P02.S01 — E-reduction as a political boundary condition (no toll economy)
+  - B03.CH01.P02.S02 — Caps as limits on claim and power positions (binding)
+  - B03.CH01.P02.S03 — Commons as a public substitute: access, maintenance, boundary rules
+  - B03.CH01.P02.S04 — R/B as the legitimacy axis: carrying capacity, lower bounds, distribution profiles
+  - B03.CH01.P02.S05 — ΔM as the allocation interface: channel distribution, contestability, no black boxes
+
+- B03.CH01.P03 — Minimum set of political criteria: what “OBA-conform policy” means
+  - B03.CH01.P03.S01 — Political test questions per pillar (E, caps, commons/ΔG, R/B, ΔM)
+  - B03.CH01.P03.S02 — Required evidence: measurability, auditability, public definition set
+  - B03.CH01.P03.S03 — Anti-avoidance as a democratic problem: function-over-label and look-through
+  - B03.CH01.P03.S04 — Exception discipline: sunsets/rollback as democratic self-binding
+  - B03.CH01.P03.S05 — Compatibility/forks: name usage and the boundary of “still OBA”
+
+- B03.CH01.P04 — Democratic risks as the core problem of Book 3
+  - B03.CH01.P04.S01 — Capture: lobbying, revolving doors, media and expert stacks
+  - B03.CH01.P04.S02 — Populist façade: rhetorical adoption without enforcement
+  - B03.CH01.P04.S03 — Authoritarian drift: overreach, surveillance, selective caps
+  - B03.CH01.P04.S04 — Coalition erosion: sequencing conflicts, swing groups, scapegoating
+  - B03.CH01.P04.S05 — Legitimacy deficit: unclear mandates and non-contestable allocation
+
+- B03.CH01.P05 — Pre-commitment: democratic self-binding and institutional checks
+  - B03.CH01.P05.S01 — Who triggers what: escalation ladder and timelines (link to Book 2/1)
+  - B03.CH01.P05.S02 — Transparency minimum: registers, scorecards, changelog discipline
+  - B03.CH01.P05.S03 — Judicial review and objections: contestability without paralysis
+  - B03.CH01.P05.S04 — Prohibited linkages: limits on profiling and order-incompatible surveillance
+  - B03.CH01.P05.S05 — Exit criteria: when policy is formally “no longer OBA”
+
+- B03.CH01.P06 — Reading and decision route through Book 3
+  - B03.CH01.P06.S01 — Mandate → institutions → commons governance → movement → forks
+  - B03.CH01.P06.S02 — Democratic consistency test as the capstone (B03.CH12)
+  - B03.CH01.P06.S03 — Interface with Book 4: cognitive order as a precondition for democracy
+  - B03.CH01.P06.S04 — Interface with the Kernel Spec: where definitions and calculation rules live
+
+## B03.CH02 — Order-democracy: what is decided, what is invariant, and why
+
+- B03.CH02.P01 — Problem statement: democracy without order invariants is capture-prone
+  - B03.CH02.P01.S01 — Democratic decision-making as an attack vector on caps and commons
+  - B03.CH02.P01.S02 — Why OBA requires a “constitutive layer” (a non-votable core)
+  - B03.CH02.P01.S03 — Relation to OOA: why making everything “politically malleable” produces regression
+  - B03.CH02.P01.S04 — Delimitation: order-democracy ≠ technocracy; contestability remains a requirement
+
+- B03.CH02.P02 — Decision space: classification of decisions by order impact
+  - B03.CH02.P02.S01 — Constitutive: definitions, bindingness of caps, measurability, boundary rules
+  - B03.CH02.P02.S02 — Parametric: thresholds, rates, budget allocations within the rails
+  - B03.CH02.P02.S03 — Discretionary: project choices, prioritisation, pacing within ΔM
+  - B03.CH02.P02.S04 — Emergency decision: crisis powers with sunset/rollback
+  - B03.CH02.P02.S05 — Fork decision: explicit variant choice with compatibility status
+
+- B03.CH02.P03 — Invariants: what cannot be hollowed out by ordinary politics
+  - B03.CH02.P03.S01 — Caps: binding; no stackable exceptions; no threshold tricks
+  - B03.CH02.P03.S02 — E-reduction: function-over-label; anti-relabeling as a core rule
+  - B03.CH02.P03.S03 — Commons: open access within boundary rules + maintenance discipline
+  - B03.CH02.P03.S04 — Measurability/audit: replicable calculation rules, logging, traceability
+  - B03.CH02.P03.S05 — Contestability: objection/appeal and independent audit as constitutive
+
+- B03.CH02.P04 — Why these invariants are democratically justified
+  - B03.CH02.P04.S01 — Protection against top-tail dominance and claim stacking
+  - B03.CH02.P04.S02 — Protection against semantic drift and policy laundering
+  - B03.CH02.P04.S03 — Protection of essentials continuity and commons substitution
+  - B03.CH02.P04.S04 — Protection of minorities against selective caps/enforcement
+  - B03.CH02.P04.S05 — Protection of future generations via maintenance and capex rails
+
+- B03.CH02.P05 — Mandate structure: how legitimacy is tied to order criteria
+  - B03.CH02.P05.S01 — Electoral mandate: direction, priorities, parametric choices
+  - B03.CH02.P05.S02 — Constitutive mandates: supermajority, referenda, or constitutional layers
+  - B03.CH02.P05.S03 — Commons mandate: membership, representation, stewardship duties
+  - B03.CH02.P05.S04 — ΔM mandate: allocation criteria, transparency requirements, contestability
+  - B03.CH02.P05.S05 — Emergency mandate: temporary powers, evidence discipline, exit conditions
+
+- B03.CH02.P06 — Procedural architecture: decision-making with built-in anti-drift
+  - B03.CH02.P06.S01 — Separation of functions: execution, audit, oversight, judicial review
+  - B03.CH02.P06.S02 — Version control: changelog, impact analysis, backward compatibility
+  - B03.CH02.P06.S03 — Exception governance: register, sunsets, non-stackability
+  - B03.CH02.P06.S04 — Hard stops: measurement uncertainty, black-box allocation, cap erosion
+  - B03.CH02.P06.S05 — Public reporting: definitions, indicators, restatements
+
+- B03.CH02.P07 — Limits of democratic choice: forbidden routes and “no-go zones”
+  - B03.CH02.P07.S01 — Prohibited linkages: profiling/surveillance that breaks the order
+  - B03.CH02.P07.S02 — Prohibited privatisations: commons lock-in and toll gates
+  - B03.CH02.P07.S03 — Prohibited black boxes: allocation without auditability
+  - B03.CH02.P07.S04 — Prohibited cap hollowing: permanent carve-outs and exception normalisation
+  - B03.CH02.P07.S05 — Prohibited semantic drift: redefinition outside the Kernel Spec
+
+- B03.CH02.P08 — Conflict and pluralism within order-democracy
+  - B03.CH02.P08.S01 — Legitimate conflicts: priorities within the rails (ΔM, pace, sector focus)
+  - B03.CH02.P08.S02 — Illegitimate conflicts: fighting to break invariants
+  - B03.CH02.P08.S03 — Schism mechanics: when conflict leads to a fork
+  - B03.CH02.P08.S04 — Re-integration: conditions for returning to compatible rails
+  - B03.CH02.P08.S05 — Incident politics: crises as attempts to renegotiate invariants
+
+## B03.CH03 — Legitimacy and mandate: from electoral logic to order criteria
+
+- B03.CH03.P01 — Problem statement: electoral logic is insufficient for order decisions
+  - B03.CH03.P01.S01 — Short-term incentives versus long-term invariants (caps, maintenance)
+  - B03.CH03.P01.S02 — Majoritarian drift: how majorities can burden minorities and the future
+  - B03.CH03.P01.S03 — Capture via mandate ambiguity: “technical” policy without contestability
+  - B03.CH03.P01.S04 — Aim: tie mandates to testable order criteria
+
+- B03.CH03.P02 — Mandate types: distinctions by order impact
+  - B03.CH03.P02.S01 — Parametric mandate: within the rails (thresholds, rates, priorities)
+  - B03.CH03.P02.S02 — Constitutive mandate: change of core rails (supermajority/special procedure)
+  - B03.CH03.P02.S03 — Commons mandate: stewardship, access, maintenance, conflict resolution
+  - B03.CH03.P02.S04 — ΔM mandate: allocation criteria, channel distribution, transparency requirements
+  - B03.CH03.P02.S05 — Emergency mandate: temporary powers with sunset/rollback
+
+- B03.CH03.P03 — Legitimacy criteria: when a decision is “legitimate” under OBA
+  - B03.CH03.P03.S01 — Procedural legitimacy: transparent steps, objection/appeal, audit
+  - B03.CH03.P03.S02 — Epistemic legitimacy: evidence standards, measurability, replicability
+  - B03.CH03.P03.S03 — Distributive legitimacy: R/B lower bounds and protection of essentials
+  - B03.CH03.P03.S04 — Institutional legitimacy: separation of functions, anti-capture, rotation
+  - B03.CH03.P03.S05 — Substantive legitimacy: compatibility with non-negotiables
+
+- B03.CH03.P04 — Mandate granting: mechanisms and thresholds
+  - B03.CH03.P04.S01 — Elections: direction and priorities, not a blank cheque
+  - B03.CH03.P04.S02 — Referenda/citizen conventions: deployable for constitutive choices
+  - B03.CH03.P04.S03 — Supermajority and dual-key: protection against cap erosion and drift
+  - B03.CH03.P04.S04 — Commons representation: who speaks for users/maintenance
+  - B03.CH03.P04.S05 — Minority and generational rails: vetoes, ombuds functions, trusteeship
+
+- B03.CH03.P05 — Mandate operationalisation: from promise to testable assignment
+  - B03.CH03.P05.S01 — Mandate text in test axes: E, caps, commons/ΔG, R/B, ΔM
+  - B03.CH03.P05.S02 — KPIs without gaming: red flags, uncertainty bands, “unknown” discipline
+  - B03.CH03.P05.S03 — Timeline and sequencing: binding steps versus evaluation moments
+  - B03.CH03.P05.S04 — Exception discipline: sunsets/rollback fixed in advance
+  - B03.CH03.P05.S05 — Public scorecards: definitions, baseline, restatements
+
+- B03.CH03.P06 — Mandate conflicts: when mandates clash and how to decide
+  - B03.CH03.P06.S01 — Electoral mandate versus constitutive rails: priority and review
+  - B03.CH03.P06.S02 — Commons interests versus market interests: boundary rules and access
+  - B03.CH03.P06.S03 — National goals versus international obligations: compatibility and carve-outs
+  - B03.CH03.P06.S04 — Crisis versus rule of law: emergency mandate and exit conditions
+  - B03.CH03.P06.S05 — Fork decision: explicit choice when compatibility is absent
+
+- B03.CH03.P07 — Mandate protection against capture and semantic drift
+  - B03.CH03.P07.S01 — Lobbying and funding disclosure as a mandate condition
+  - B03.CH03.P07.S02 — Vendor lock-in prevention: open standards and auditability
+  - B03.CH03.P07.S03 — Anti-relabeling: function-over-label as legal core
+  - B03.CH03.P07.S04 — Audit of mandate execution: independent review and sanction rate
+  - B03.CH03.P07.S05 — Sanctions for mandate breach: rollback, re-authorisation, institutional correction
+
+- B03.CH03.P08 — Evaluation and re-authorisation: mandate as a repeatable contract
+  - B03.CH03.P08.S01 — Midterm checks: thresholds for adjustment or stop (hard stops)
+  - B03.CH03.P08.S02 — Ex post audits: effect on E/RB/caps/ΔG/ΔM and exception ratio
+  - B03.CH03.P08.S03 — Version control: parameter tuning without core break (traceable changelog)
+  - B03.CH03.P08.S04 — Public accountability: incident reports and definition sets
+  - B03.CH03.P08.S05 — Re-authorisation: when a new mandate is required (constitutive vs parametric)
+
+## B03.CH04 — Commons-democracy: governance, access, maintenance, and conflict resolution
+
+- B03.CH04.P01 — Purpose and delimitation: commons as a democratically governed production and access system
+  - B03.CH04.P01.S01 — Commons ≠ state ≠ market: position in the order (substitution of tolls)
+  - B03.CH04.P01.S02 — Delimitation vs Book 1: economic criteria and measurement rules remain canonical there
+  - B03.CH04.P01.S03 — Core question: who decides on access, quality, maintenance, and investment
+  - B03.CH04.P01.S04 — Risks: capture, gating, maintenance decay, façade governance
+
+- B03.CH04.P02 — Constitutive principles: boundary rules, openness, and non-discrimination
+  - B03.CH04.P02.S01 — Access as default: open access within explicit boundary rules
+  - B03.CH04.P02.S02 — Ban on private toll gates: paid priority, bundling, lock-in fees
+  - B03.CH04.P02.S03 — Quality and service minima: essentials continuity as the norm
+  - B03.CH04.P02.S04 — Transparency: definitions, indicators, decision logs, auditability
+  - B03.CH04.P02.S05 — Contestability: objection, appeal, and independent review
+
+- B03.CH04.P03 — Governance architecture: roles, representation, and powers
+  - B03.CH04.P03.S01 — Roles: users, managers, operators, auditors, overseers
+  - B03.CH04.P03.S02 — Representation models: membership, election, sortition, stakeholder seats
+  - B03.CH04.P03.S03 — Powers: access, fees/rules (within rails), investments, sanctions
+  - B03.CH04.P03.S04 — Separation of functions: execution vs oversight vs audit
+  - B03.CH04.P03.S05 — Mandate and terms: rotation, recall, conflict-of-interest regimes
+
+- B03.CH04.P04 — Access and allocation: rules for scarcity and prioritisation
+  - B03.CH04.P04.S01 — Scarcity protocol: when and how prioritisation is allowed
+  - B03.CH04.P04.S02 — Prioritisation criteria: essentials, vulnerability, continuity, public value
+  - B03.CH04.P04.S03 — Prohibited allocation forms: black-box scoring, profiles without appeal
+  - B03.CH04.P04.S04 — Price/fee discipline: cost recovery versus toll; take-rate caps where relevant
+  - B03.CH04.P04.S05 — Data and privacy: minimalism, logging, access to personal data
+
+- B03.CH04.P05 — Maintenance and ΔG: stewardship as a democratic duty
+  - B03.CH04.P05.S01 — Maintenance cycles: minimum levels, backlog metric, ring-fencing
+  - B03.CH04.P05.S02 — Investment (capex): prioritisation, project selection, lifecycle accounting
+  - B03.CH04.P05.S03 — Quality measurement: coverage, reliability, uptime, service metrics
+  - B03.CH04.P05.S04 — Transparency: maintenance log, project changelog, incident reporting
+  - B03.CH04.P05.S05 — Sanctions for maintenance neglect: intervention, re-governance, recovery plan
+
+- B03.CH04.P06 — Financing and the ΔM interface: budgets, channels, and control
+  - B03.CH04.P06.S01 — ΔM channels: allocation to commons versus other public goals
+  - B03.CH04.P06.S02 — Budget rules: predictability, counter-cyclicality, emergency buffers
+  - B03.CH04.P06.S03 — External procurement: procurement rails, open standards, exitability
+  - B03.CH04.P06.S04 — Claims on commons: ban on collateralisation/privatisation paths
+  - B03.CH04.P06.S05 — Public accountability: scorecards for ΔG and allocation outcomes
+
+- B03.CH04.P07 — Conflict resolution: internal disputes, external claims, and escalation
+  - B03.CH04.P07.S01 — Internal conflicts: users vs managers; prioritisation; access disputes
+  - B03.CH04.P07.S02 — Procedure: complaint → mediation → arbitration/tribunal → judicial review
+  - B03.CH04.P07.S03 — Evidence: logs, measurement data, decision rationale, audit trail
+  - B03.CH04.P07.S04 — Escalation: hard stops for black-box allocation or gating innovations
+  - B03.CH04.P07.S05 — Remedy: restoration, compensation, rule change, governance intervention
+
+- B03.CH04.P08 — Anti-capture and anti-façade: protecting commons-democracy
+  - B03.CH04.P08.S01 — Capture indicators: vendor concentration, exception explosion, sanction rate↓
+  - B03.CH04.P08.S02 — Façade detection: closed access under the “commons” label; private tolls in language
+  - B03.CH04.P08.S03 — Rotation and disclosure: conflicts of interest, revolving doors, procurement checks
+  - B03.CH04.P08.S04 — Open calculation rules and external replication: third-party audit without privacy override
+  - B03.CH04.P08.S05 — Intervention mechanisms: requalification as market/private toll regime, re-governance, rollback
+
+- B03.CH04.P09 — Interoperability and scale: commons in networks and chains
+  - B03.CH04.P09.S01 — Federation: local commons → regional/national layer
+  - B03.CH04.P09.S02 — Interoperable standards: access, identity, logging, service levels
+  - B03.CH04.P09.S03 — Chain attribution: platform–supplier–financier in a commons context
+  - B03.CH04.P09.S04 — Cross-border commons: minimum compatibility conditions
+  - B03.CH04.P09.S05 — Shock stress: surge planning and continuity under crisis
+
+- B03.CH04.P10 — Evaluation and version control: learning without a core break
+  - B03.CH04.P10.S01 — Dashboard minimum: access, quality, maintenance, gating signals
+  - B03.CH04.P10.S02 — Incident reviews: root cause, recovery plan, sanctions where appropriate
+  - B03.CH04.P10.S03 — Parameter changes: thresholds/rules within rails (traceable changelog)
+  - B03.CH04.P10.S04 — Forks: when commons governance becomes a variant and how to label it
+  - B03.CH04.P10.S05 — Link to the democratic consistency test: inputs to B03.CH12
+
+## B03.CH05 — Institutional design: separation of powers, audit, transparency, and sanctions
+
+- B03.CH05.P01 — Purpose and delimitation: institutional design as anti-capture infrastructure
+  - B03.CH05.P01.S01 — Why institutions operationalise “the law” (from norm to behaviour)
+  - B03.CH05.P01.S02 — Delimitation vs Books 1/2: economic rules and transition instruments remain canonical there
+  - B03.CH05.P01.S03 — Design requirements: separation of functions, evidence discipline, contestability
+  - B03.CH05.P01.S04 — Failure modes: capture, latency, semantic drift, exception normalisation
+  - B03.CH05.P01.S05 — Output: minimum institutional set + interfaces + escalation ladders
+
+- B03.CH05.P02 — Separation of functions: execution, audit, oversight, and judicial review
+  - B03.CH05.P02.S01 — Execution: registration, allocation, enforcement, and operational decisions
+  - B03.CH05.P02.S02 — Independent audit: verification, forensic access, meta-audit
+  - B03.CH05.P02.S03 — Oversight: policy frames, exception management, escalation decisions
+  - B03.CH05.P02.S04 — Judicial review: objection/appeal, proportionality, evidentiary standards
+  - B03.CH05.P02.S05 — Separation rails: incompatible roles, cooling-off, conflict-of-interest rules
+
+- B03.CH05.P03 — Powers and checks: who may do what, under which conditions
+  - B03.CH05.P03.S01 — Inspection and production powers: scope, proportionality, mandatory logging
+  - B03.CH05.P03.S02 — Forensic access: systems, contracts, side letters, custody layers
+  - B03.CH05.P03.S03 — International cooperation: mutual assistance, evidence sharing, collection/seizure
+  - B03.CH05.P03.S04 — Override powers: conditions, time limits, public rationale
+  - B03.CH05.P03.S05 — Abuse prevention: audit of power use and sanctions for overreach
+
+- B03.CH05.P04 — Transparency architecture: public definitions, registers, and dashboards
+  - B03.CH05.P04.S01 — Definition publication: concept framework, exclusions, reference budgets
+  - B03.CH05.P04.S02 — Registers: exceptions register, sanctions register, beneficial control/exposure where relevant
+  - B03.CH05.P04.S03 — Dashboard minimum: E, R/B profiles, cap signals, ΔG/commons quality, ΔM distribution
+  - B03.CH05.P04.S04 — Reproducibility: open calculation rules, restatements, time-series bridging
+  - B03.CH05.P04.S05 — Privacy rails: aggregation/pseudonymisation and access control with logging
+
+- B03.CH05.P05 — Audit design: assurance, sampling, triggers, and hard stops
+  - B03.CH05.P05.S01 — Baseline audit: periodic verification of core indicators and definition set
+  - B03.CH05.P05.S02 — Sampling versus full coverage: criteria based on E-risk and cap sensitivity
+  - B03.CH05.P05.S03 — Trigger-based audits: anomalies (fee stacks, concentration, margin spikes, relocations)
+  - B03.CH05.P05.S04 — Hard stops: measurement uncertainty, black-box allocation, cap erosion, definition shift without changelog
+  - B03.CH05.P05.S05 — Audit of auditors: rotation, independent review, capture indicators
+
+- B03.CH05.P06 — Enforcement: detection → qualification → remedy (function over label)
+  - B03.CH05.P06.S01 — Detection sources: reporting, logs, whistleblowing, anomaly engines
+  - B03.CH05.P06.S02 — Qualification: requalification principles, look-through, chain attribution
+  - B03.CH05.P06.S03 — Remedy instruments: corrections, clawbacks, routing to commons, licence interventions
+  - B03.CH05.P06.S04 — Burden of proof and evidentiary standards: documentation duty, reversal where appropriate
+  - B03.CH05.P06.S05 — Objection/appeal: non-suspensive defaults where regression risk exists; exceptions explicit
+
+- B03.CH05.P07 — Sanctions architecture: escalation ladder and neutralisation of extraction
+  - B03.CH05.P07.S01 — Sanction types: administrative, civil, criminal (criteria per class)
+  - B03.CH05.P07.S02 — Escalation ladder: warning → fine → restriction → exclusion → dismantling
+  - B03.CH05.P07.S03 — Economic neutralisation: fee-stack removal, windfall capture, disgorgement
+  - B03.CH05.P07.S04 — Recidivism and patterning: stronger sanctions for structural circumvention/capture
+  - B03.CH05.P07.S05 — Publicity and precedent: sanctions register, rationale, repeatability of decisions
+
+- B03.CH05.P08 — Exception regime: governance, sunsets, and rollback as an anti-drift mechanism
+  - B03.CH05.P08.S01 — Definition of an exception: scope, duration, impact-weighted registration
+  - B03.CH05.P08.S02 — Award criteria: continuity, proportionality, substitution plan, exitability
+  - B03.CH05.P08.S03 — Sunsets: automatic expiry, reauthorisation with a higher threshold
+  - B03.CH05.P08.S04 — Rollback: technical/contractual reversal requirements, data and log retention
+  - B03.CH05.P08.S05 — Abuse detection: exception ratio, renewals, selectivity, sanction-rate drift
+
+- B03.CH05.P09 — Procurement and vendor governance: preventing lock-in and black-box institutions
+  - B03.CH05.P09.S01 — Open standards: data models, interfaces, calculation rules, auditability by design
+  - B03.CH05.P09.S02 — Exitability: portability, escrow, second implementation, shadow computation
+  - B03.CH05.P09.S03 — Model and tooling audit: reproducibility, version pinning, changelog discipline
+  - B03.CH05.P09.S04 — Concentration control: supplier concentration, single points of failure, capture risk
+  - B03.CH05.P09.S05 — Sanctions for tooling non-compliance: breach, exclusion, re-tendering
+
+- B03.CH05.P10 — Financial and organisational independence: budget, staffing, and mandates
+  - B03.CH05.P10.S01 — Budget rails: predictability, counter-cyclicality, emergency buffers
+  - B03.CH05.P10.S02 — Staffing: expertise profiles, training, rotation, integrity regimes
+  - B03.CH05.P10.S03 — Compensation and incentive design: avoid perverse KPIs and gaming
+  - B03.CH05.P10.S04 — Internal controls: segregation of duties, access control, incident response
+  - B03.CH05.P10.S05 — External review: periodic international/academic replication where possible
+
+- B03.CH05.P11 — Escalation and intervention: when institutions must correct themselves
+  - B03.CH05.P11.S01 — Early warning for institutional failure: reproducibility↓, exceptions↑, sanction rate↓
+  - B03.CH05.P11.S02 — Intervention mechanisms: temporary takeover, reconstitution, re-governance
+  - B03.CH05.P11.S03 — Crisis protocols: emergency power with evidence discipline and exit conditions
+  - B03.CH05.P11.S04 — Public accountability: incident report, decision log, traceable changelog
+  - B03.CH05.P11.S05 — Fork threshold: when institutional design formally becomes “no longer OBA-compatible”
+
+## B03.CH06 — Movement and support structures: coalitions, subject positions, and organisational forms
+
+- B03.CH06.P01 — Purpose and delimitation: movement as an implementation interface, not as an ideology
+  - B03.CH06.P01.S01 — Why order institutions without a support base tend to trigger regression
+  - B03.CH06.P01.S02 — Delimitation: this chapter describes organisation and coalition dynamics, not policy detail
+  - B03.CH06.P01.S03 — Relation to Book 2: transition conflict versus durable movement
+  - B03.CH06.P01.S04 — Output: machine-readable building blocks for coalition, organisational, and channel design
+
+- B03.CH06.P02 — Subject positions: who acts and from which structural position
+  - B03.CH06.P02.S01 — Workers/precariat: R/B interest, time/security, exposure to essentials
+  - B03.CH06.P02.S02 — Middle percentiles: housing/pensions, status-loss anxiety, swing dynamics
+  - B03.CH06.P02.S03 — SMEs and the local economy: toll and lock-in sensitivity, administrative burden
+  - B03.CH06.P02.S04 — Public professionals: execution, audit, care/education—capacity bottlenecks
+  - B03.CH06.P02.S05 — Commons users and stewards: maintenance, access, conflict resolution
+  - B03.CH06.P02.S06 — Top-tail positions: claim-holders, platform power, finance stack (counter-moves)
+
+- B03.CH06.P03 — Coalition logic: stable core, swing groups, and fault lines
+  - B03.CH06.P03.S01 — Core coalition: direct interest in E-reduction and commons substitution
+  - B03.CH06.P03.S02 — Swing groups: timing asymmetry (fast losses versus slow gains)
+  - B03.CH06.P03.S03 — Fault lines: sector, region, generation, education, housing tenure
+  - B03.CH06.P03.S04 — Elite splitting: production versus finance, export versus domestic
+  - B03.CH06.P03.S05 — Coalition erosion: exceptions, sequencing conflicts, crisis politics
+
+- B03.CH06.P04 — Organisational forms: structures for coordination and continuity
+  - B03.CH06.P04.S01 — Party form: electoral interface, mandate discipline, capture risk
+  - B03.CH06.P04.S02 — Union/professional association: leverage via labour and expertise
+  - B03.CH06.P04.S03 — Commons association/cooperative: governance and access with stewardship
+  - B03.CH06.P04.S04 — Network federation: local cells with standards and interoperability
+  - B03.CH06.P04.S05 — Dual structure: public movement + technical core (audit/measurement expertise)
+
+- B03.CH06.P05 — Support structures: infrastructure that prevents the movement from becoming ephemeral
+  - B03.CH06.P05.S01 — Knowledge infrastructure: definitions, explainers, replication tooling
+  - B03.CH06.P05.S02 — Financial infrastructure: transparent funding, anti-capture rails, disclosures
+  - B03.CH06.P05.S03 — Organisational ops: training, onboarding, role clarity, conflict procedures
+  - B03.CH06.P05.S04 — Media and distribution channels: reach without platform dependence
+  - B03.CH06.P05.S05 — Commons projects as “living proof”: visible ΔG and service minima
+
+- B03.CH06.P06 — Mobilisation strategies: from framing to institutional pressure
+  - B03.CH06.P06.S01 — Language discipline: speak in test axes (E/RB/caps/ΔG/ΔM)
+  - B03.CH06.P06.S02 — Issue bundling: essentials, housing, care, energy—tie to E-reduction
+  - B03.CH06.P06.S03 — Targeting: chokepoints and veto players (institutional, market, infrastructure)
+  - B03.CH06.P06.S04 — Escalation: campaign → policy commitments → implementation monitoring
+  - B03.CH06.P06.S05 — Infiltration resistance: screening, disclosure, rotation, audit of finances
+
+- B03.CH06.P07 — Interaction with institutions: how the movement safeguards “order” after victory
+  - B03.CH06.P07.S01 — Mandate translation: election win → testable assignment (KPIs + rails)
+  - B03.CH06.P07.S02 — Staffing and execution: competence, integrity, capacity (anti–revolving doors)
+  - B03.CH06.P07.S03 — Monitoring: public scorecards, sanction rate, exception ratio
+  - B03.CH06.P07.S04 — Correction: rollback demands, hard stops, reauthorisation under drift
+  - B03.CH06.P07.S05 — Commons interface: governance seats, steward training, conflict escalation
+
+- B03.CH06.P08 — Counter-moves and repression: resistance profiles and protection mechanisms
+  - B03.CH06.P08.S01 — Financial counter-moves: donor pressure, credit tightening, smear campaigns
+  - B03.CH06.P08.S02 — Legal counter-moves: injunctions, litigation saturation, forum shopping
+  - B03.CH06.P08.S03 — Media/narrative counter-moves: delegitimation, confusion campaigns, scapegoats
+  - B03.CH06.P08.S04 — Institutional counter-moves: bureaucratic sabotage, definition shift, vendor lock-in
+  - B03.CH06.P08.S05 — Protection: legal defence, redundancy, open tooling, security hygiene
+
+- B03.CH06.P09 — Internal conflicts: schisms, orthodoxy, and fork dynamics inside the movement
+  - B03.CH06.P09.S01 — Ideological drift: relapse into left/right instead of order axes
+  - B03.CH06.P09.S02 — Strategy conflict: speed versus coalition retention; hard versus soft sequencing
+  - B03.CH06.P09.S03 — Capture conflict: “pragmatic” exceptions versus invariant protection
+  - B03.CH06.P09.S04 — Internal fork protocol: when separation is legitimate
+  - B03.CH06.P09.S05 — Reintegration: conditions for compatible cooperation
+
+- B03.CH06.P10 — Evaluation: movement as a repeatable system (not a one-off campaign)
+  - B03.CH06.P10.S01 — Metrics: growth, retention, training, funding integrity, channel resilience
+  - B03.CH06.P10.S02 — Incident reviews: infiltration attempts, drift, reputational risks
+  - B03.CH06.P10.S03 — Version control: strategy adjustments with traceability
+  - B03.CH06.P10.S04 — Handover: movement → institutions → commons governance (handover protocols)
+  - B03.CH06.P10.S05 — Link to the democratic consistency test (B03.CH12): inputs and thresholds
+
+## B03.CH07 — Forks and compatibility: variants, name usage, and the OBA compatibility test
+
+- B03.CH07.P01 — Purpose and delimitation: forks as necessary plurality without losing the core
+  - B03.CH07.P01.S01 — Why variants are inevitable (context, culture, shocks)
+  - B03.CH07.P01.S02 — Why name usage is not optional (prevent semantic drift)
+  - B03.CH07.P01.S03 — Delimitation: economic definitions remain canonical in the Kernel Spec / Book 1
+  - B03.CH07.P01.S04 — Output: formal fork protocol + compatibility test + registries
+
+- B03.CH07.P02 — Conceptual framework: fork, variant, extension, and incompatibility
+  - B03.CH07.P02.S01 — Fork: deviation on constitutive rails (non-negotiables or definitions)
+  - B03.CH07.P02.S02 — Variant: parametric deviation within rails (thresholds, pace, priorities)
+  - B03.CH07.P02.S03 — Extension: additional modules without changing the core (add-on, optional)
+  - B03.CH07.P02.S04 — Incompatibility: break in measurability/auditability/contestability
+  - B03.CH07.P02.S05 — Naming conventions: labels for compatible, partial, non-compatible
+
+- B03.CH07.P03 — Name usage: rules against semantic regression and washing
+  - B03.CH07.P03.S01 — “OBA” as a reserved label: conditions for use
+  - B03.CH07.P03.S02 — Prohibited misrepresentation: OBA language applied to OOA practice (washing)
+  - B03.CH07.P03.S03 — “OBA-compatible” versus “OBA-inspired”: status labels
+  - B03.CH07.P03.S04 — Public disclosure: which rails deviate and why
+  - B03.CH07.P03.S05 — Enforcement: sanctions for mislabeling in policy / commons / governance
+
+- B03.CH07.P04 — Compatibility test: minimum criteria (pass/fail)
+  - B03.CH07.P04.S01 — E: measurable reduction of toll/claim extraction (function-over-label)
+  - B03.CH07.P04.S02 — Caps: binding, no structural carve-outs, no threshold tricks
+  - B03.CH07.P04.S03 — Commons/ΔG: open access within boundary rules + maintenance discipline
+  - B03.CH07.P04.S04 — R/B: lower bounds and distributive improvement (p10/p25/median)
+  - B03.CH07.P04.S05 — ΔM: channel allocation testable, allocation contestable, no black boxes
+  - B03.CH07.P04.S06 — Auditability: open definitions, logging, replicability, restatements
+
+- B03.CH07.P05 — Process: how a fork/variant is formally established
+  - B03.CH07.P05.S01 — Initiation: proposal with delta on rails, rationale, and impact analysis
+  - B03.CH07.P05.S02 — Evidence: measurement plan, audit plan, uncertainty bands, “unknown” discipline
+  - B03.CH07.P05.S03 — Review: independent audit + public consultation (where appropriate)
+  - B03.CH07.P05.S04 — Decision: classification (variant/extension/fork) + name label
+  - B03.CH07.P05.S05 — Publication: changelog, definition set, compatibility scorecard
+
+- B03.CH07.P06 — Registries and version control: traceability over time and jurisdictions
+  - B03.CH07.P06.S01 — Fork registry: unique IDs, scope, status, date, rationale
+  - B03.CH07.P06.S02 — Definition sets: version pinning and backward compatibility rules
+  - B03.CH07.P06.S03 — Bridging: mapping between variants for comparison and migration
+  - B03.CH07.P06.S04 — Deprecation: sunset of failed forks/variants, migration paths
+  - B03.CH07.P06.S05 — Interoperability: minimum cross-border compatibility metadata
+
+- B03.CH07.P07 — Governance implications: pluralism without fragmentation
+  - B03.CH07.P07.S01 — Federated governance: local variants with central invariants
+  - B03.CH07.P07.S02 — Conflict arbitration: who decides in a compatibility dispute
+  - B03.CH07.P07.S03 — Prevention of “fork shopping”: incentives and enforcement
+  - B03.CH07.P07.S04 — Reintegration: conditions for return to compatible rails
+  - B03.CH07.P07.S05 — Break management: when separation is better than sham unity
+
+- B03.CH07.P08 — Abuse patterns: strategic forks and façade variants
+  - B03.CH07.P08.S01 — Token forks: rhetoric only, no measurable changes in E/RB/caps/ΔG/ΔM
+  - B03.CH07.P08.S02 — Capture forks: exceptions built in for insiders
+  - B03.CH07.P08.S03 — Authoritarian forks: overreach, surveillance, selective enforcement
+  - B03.CH07.P08.S04 — Vendor forks: black-box allocation and proprietary measurement regimes
+  - B03.CH07.P08.S05 — Detection: exception ratio↑, sanction rate↓, reproducibility↓, E↑
+
+- B03.CH07.P09 — Correction mechanisms: what to do under incompatibility or mislabeling
+  - B03.CH07.P09.S01 — Semantic correction: enforce relabeling and public rectification
+  - B03.CH07.P09.S02 — Institutional correction: audit escalation, hard stops, governance reset
+  - B03.CH07.P09.S03 — Legal correction: sanctions, withdrawal of label, remedial measures
+  - B03.CH07.P09.S04 — Economic correction: neutralisation of extraction and contract rollback
+  - B03.CH07.P09.S05 — Exit criteria: when formally “no longer OBA” (link to B03.CH12)
+
+- B03.CH07.P10 — Integration with tests: compatibility as an input for democratic consistency
+  - B03.CH07.P10.S01 — Compatibility status as a parameter in policy mandates
+  - B03.CH07.P10.S02 — Public scorecards per variant/fork
+  - B03.CH07.P10.S03 — Audit requirements per status (compatible vs partial vs non-compatible)
+  - B03.CH07.P10.S04 — Scenario and shock stress: forks under crisis pressure
+  - B03.CH07.P10.S05 — Version control: lessons learned without core break (traceable changelog)
+
+## B03.CH08 — Political interface: beyond left/right — OOA/OBA as the fault line
+
+- B03.CH08.P01 — Purpose and delimitation: the interface as a translation and classification layer
+  - B03.CH08.P01.S01 — Why left/right is insufficient for order conflicts
+  - B03.CH08.P01.S02 — OOA/OBA as the fault line: definition and function
+  - B03.CH08.P01.S03 — Delimitation: no party-political recommendations, only test and language rules
+  - B03.CH08.P01.S04 — Output: classification scheme for positions, proposals, and rhetoric
+
+- B03.CH08.P02 — Core axis: OOA versus OBA (order typology)
+  - B03.CH08.P02.S01 — OOA: claim expansion, toll positions, capture susceptibility (functional profile)
+  - B03.CH08.P02.S02 — OBA: bounded claims, measurability, binding caps, commons substitution (functional profile)
+  - B03.CH08.P02.S03 — Fault-line objects: caps, commons, ΔM, auditability as conflict points
+  - B03.CH08.P02.S04 — Minimal recognition rule: “where is the extraction, and who can block it?”
+
+- B03.CH08.P03 — Orthogonal axes: why OOA/OBA does not coincide with left/right
+  - B03.CH08.P03.S01 — Left-OOA: redistribution without E-reduction (asset-support reflex, exception politics)
+  - B03.CH08.P03.S02 — Right-OOA: market rhetoric with lock-in/tolls and top-tail dominance
+  - B03.CH08.P03.S03 — Left-OBA: commons and caps with strict audit trails
+  - B03.CH08.P03.S04 — Right-OBA: market space without toll positions; caps as anti-monopoly infrastructure
+
+- B03.CH08.P04 — Mapping political positions: classification based on test axes
+  - B03.CH08.P04.S01 — Policy claim → projection onto test axes (E, R/B, caps, ΔG, ΔM)
+  - B03.CH08.P04.S02 — Control/benefit/block mapping: who loses/wins and who holds veto power
+  - B03.CH08.P04.S03 — Exception profile: carve-outs, sunsets, rollback requirements
+  - B03.CH08.P04.S04 — Evidence profile: measurability, replicability, contestability
+
+- B03.CH08.P05 — Policy packaging: how proposals are formulated as “OBA-compatible”
+  - B03.CH08.P05.S01 — Language discipline: speak in flows and rails, not labels
+  - B03.CH08.P05.S02 — Minimal claim structure: problem → mechanism → measurement → audit → correction
+  - B03.CH08.P05.S03 — Anti-relabeling: function-over-label in communication and legal text
+  - B03.CH08.P05.S04 — Boundary statements: explicit “non-goals” and prohibited routes
+
+- B03.CH08.P06 — Coalition architecture along the fault line
+  - B03.CH08.P06.S01 — Core coalition: groups with direct interest in E-reduction / commons / anti-lock-in
+  - B03.CH08.P06.S02 — Swing groups: timing asymmetry, housing/pensions, status-loss anxiety
+  - B03.CH08.P06.S03 — Elite splitting: production vs finance; platform power vs competitive sectors
+  - B03.CH08.P06.S04 — Stabilisation: R/B lower bounds and essentials continuity as coalition anchor
+
+- B03.CH08.P07 — Conflict mechanics in the political arena: neutralisation, capture, and regression
+  - B03.CH08.P07.S01 — OBA-washing: symbolic adoption without enforcement
+  - B03.CH08.P07.S02 — Exception stacking: cap erosion via “temporary” holes
+  - B03.CH08.P07.S03 — Black-box politics: technocratic allocation without contestability
+  - B03.CH08.P07.S04 — Crisis extraction: toll profiteering and the asset-support reflex during shocks
+
+- B03.CH08.P08 — Media and narrative struggle: frames as an order instrument
+  - B03.CH08.P08.S01 — Counter-frames: “unworkable”, “capital flight”, “state surveillance”, “anti-innovation”
+  - B03.CH08.P08.S02 — Confusion techniques: definition shifting, metric gaming, spotlighting edge cases
+  - B03.CH08.P08.S03 — Counter-framing: dashboards, audit logs, concrete flows, exception ratio
+  - B03.CH08.P08.S04 — Epistemic hygiene: source duty, replication, restatements when correcting
+
+- B03.CH08.P09 — Institutional interface: translation into mandate and decision procedures
+  - B03.CH08.P09.S01 — Mandate in order terms: testable goals per pillar + hard stops
+  - B03.CH08.P09.S02 — Procedural guards: separation of functions, audit of auditors, disclosure rails
+  - B03.CH08.P09.S03 — Exception discipline: sunsets/rollback as a political binding mechanism
+  - B03.CH08.P09.S04 — Fork interface: explicitly labeling variants instead of semantic blending
+
+- B03.CH08.P10 — Evaluation: indicators for position shifts and regression in the political field
+  - B03.CH08.P10.S01 — OOA regression signals: E↑, exceptions↑, sanction rate↓, ΔG↓
+  - B03.CH08.P10.S02 — OBA stabilisation: E↓, binding caps, stable R/B lower bounds, ΔG↑, testable ΔM
+  - B03.CH08.P10.S03 — Legitimacy measurements: contestability, transparency, compliance with definition sets
+  - B03.CH08.P10.S04 — Public consistency reporting: changelog discipline and incident reviews
+
+## B03.CH09 — Representation and participation: the role of citizens, workers, commons members, and the state
+
+- B03.CH09.P01 — Purpose and delimitation: representation as a mechanism to make order criteria governable
+  - B03.CH09.P01.S01 — Why “participation” without role and authority definitions facilitates capture
+  - B03.CH09.P01.S02 — Delimitation: not a constitutional handbook, but role structures and decision interfaces
+  - B03.CH09.P01.S03 — Relation to commons governance (B03.CH04) and mandate (B03.CH03)
+  - B03.CH09.P01.S04 — Output: participation models + role interfaces + evidence and appeal rails
+
+- B03.CH09.P02 — Actor roles: citizens, workers, commons members, and the state as distinct positions
+  - B03.CH09.P02.S01 — Citizen as sovereign voter: mandate granting and re-authorisation
+  - B03.CH09.P02.S02 — Worker as economic actor: exposure to E and R/B; leverage through labour
+  - B03.CH09.P02.S03 — Commons member/user: access, quality feedback, stewardship duties
+  - B03.CH09.P02.S04 — State as order custodian: execution, enforcement, audit, exception management
+  - B03.CH09.P02.S05 — Intermediaries: unions, professional bodies, cooperatives, civil-society organisations
+
+- B03.CH09.P03 — Representation models: architectures and trade-offs
+  - B03.CH09.P03.S01 — Electoral: parliamentary representation with order rails
+  - B03.CH09.P03.S02 — Corporatist/professional: sector and professional councils (capture risk)
+  - B03.CH09.P03.S03 — Sortition/citizen panels: lottery selection for constitutive and evaluative tasks
+  - B03.CH09.P03.S04 — Multi-stakeholder commons boards: users, operators, auditors, public
+  - B03.CH09.P03.S05 — Hybrid models: dual-key (citizen + commons + parliament) for critical decisions
+
+- B03.CH09.P04 — Participation channels: where input is produced and how it is processed
+  - B03.CH09.P04.S01 — Agenda-setting: problem selection via citizen initiatives and commons feedback
+  - B03.CH09.P04.S02 — Co-design: participatory design cycles for commons services and boundary rules
+  - B03.CH09.P04.S03 — Monitoring: public scorecards, complaint channels, anomaly reporting
+  - B03.CH09.P04.S04 — Correction: objection/appeal, recall, governance interventions, rollback requirements
+  - B03.CH09.P04.S05 — Deliberation: structured weighing within test axes, not via slogans
+
+- B03.CH09.P05 — Decision domains: what citizens/workers/commons members do and do not decide
+  - B03.CH09.P05.S01 — Constitutive: only via special procedures (supermajority/dual-key)
+  - B03.CH09.P05.S02 — Parametric: rates/thresholds within rails, priorities, timing
+  - B03.CH09.P05.S03 — Operational: service levels, project selection, maintenance planning within budget rails
+  - B03.CH09.P05.S04 — Emergency decision: temporary powers with sunset/rollback and evidence discipline
+  - B03.CH09.P05.S05 — Fork decision: explicit variant choice with name label and compatibility status
+
+- B03.CH09.P06 — Legitimacy and fairness: inclusion, non-discrimination, and protection of minorities
+  - B03.CH09.P06.S01 — Accessibility: language, time, digital access, support
+  - B03.CH09.P06.S02 — Representative balance: prevent over-representation of high-capacity groups
+  - B03.CH09.P06.S03 — Minority rails: vetoes, ombuds functions, anti-selective enforcement
+  - B03.CH09.P06.S04 — Generational rails: maintenance obligations, future test, sunset discipline
+  - B03.CH09.P06.S05 — Conflict-of-interest regimes: disclosure, cooling-off, rotation
+
+- B03.CH09.P07 — Labour and worker interface: participation via economic power and institutions
+  - B03.CH09.P07.S01 — Unions/collectives: bargaining, monitoring, abuse detection
+  - B03.CH09.P07.S02 — Professional groups in execution/audit: professional standards and integrity
+  - B03.CH09.P07.S03 — Shop-floor feedback: service failures, fee-stacks, compliance sabotage signals
+  - B03.CH09.P07.S04 — Protection: whistleblowers, anti-retaliation, legal assistance
+  - B03.CH09.P07.S05 — Coalition management: stabilising swing groups via R/B and essentials
+
+- B03.CH09.P08 — Commons membership: rights and duties
+  - B03.CH09.P08.S01 — Membership criteria: open access vs contribution; boundary rules explicit
+  - B03.CH09.P08.S02 — Voting rights and representation: weightings, caps on influence, rotation
+  - B03.CH09.P08.S03 — Stewardship duties: maintenance, contribution, compliance with rules
+  - B03.CH09.P08.S04 — Complaints and appeal: contestability with evidence (logs, metrics)
+  - B03.CH09.P08.S05 — Sanctions: for abuse, gating, capture attempts, maintenance neglect
+
+- B03.CH09.P09 — Role of the state: execution without paternalistic or authoritarian drift
+  - B03.CH09.P09.S01 — Separation of functions: execution vs oversight vs audit vs judicial review
+  - B03.CH09.P09.S02 — Transparency: definition sets, dashboards, registers, restatements
+  - B03.CH09.P09.S03 — Proportionality/privacy: data minimalism and prohibited linkages
+  - B03.CH09.P09.S04 — Crisis role: emergency regime with clear exit and ex post audits
+  - B03.CH09.P09.S05 — Anti-capture: procurement rails, vendor exitability, audit of auditors
+
+- B03.CH09.P10 — Governance protocols: formal processes for decision and correction
+  - B03.CH09.P10.S01 — Decision log: rationale, data inputs, definition set, versions
+  - B03.CH09.P10.S02 — Consultation: timelines, representative sampling, public comment handling
+  - B03.CH09.P10.S03 — Escalation: triggers, timelines, authority chain
+  - B03.CH09.P10.S04 — Rollback: conditions, technical/contractual exitability
+  - B03.CH09.P10.S05 — Evaluation: periodic re-authorisation and linkage to the B03.CH12 test
+
+- B03.CH09.P11 — Failure modes: how representation/participation goes wrong
+  - B03.CH09.P11.S01 — Tokenism: consultation without influence; façade participation
+  - B03.CH09.P11.S02 — Capture: organised interest groups dominate participation channels
+  - B03.CH09.P11.S03 — Fatigue: participation overload and declining quality
+  - B03.CH09.P11.S04 — Polarisation: incident politics, scapegoating, regression to the OOA reflex
+  - B03.CH09.P11.S05 — Correction mechanisms: redesign of channels, rotation, audit, sanctions
+
+## B03.CH10 — Anti-capture mechanisms: lobbying, media, funding, and rotation systems
+
+- B03.CH10.P01 — Problem statement: capture as an endogenous drift force in order-democracy
+  - B03.CH10.P01.S01 — Capture domains: definitions, audit, ΔM, commons, exception regimes
+  - B03.CH10.P01.S02 — Why transparency alone is insufficient (incentive structure)
+  - B03.CH10.P01.S03 — Delimitation: anti-capture ≠ anti-pluralism; legitimate interests remain
+  - B03.CH10.P01.S04 — Output: minimum anti-capture set + measurable detection signals
+
+- B03.CH10.P02 — Lobby architecture: disclosure, access, and “policy hygiene”
+  - B03.CH10.P02.S01 — Registration duty: who lobbies, for whom, with what budget and objective
+  - B03.CH10.P02.S02 — Publication of inputs: consultation submissions, amendments, text lineage
+  - B03.CH10.P02.S03 — Access rules: equal access, agenda publication, cooling-off for advisers
+  - B03.CH10.P02.S04 — Prohibited practices: hidden funding, astroturfing, revolving consultancy stacks
+  - B03.CH10.P02.S05 — Enforcement: sanctions, bans, public register of violations
+
+- B03.CH10.P03 — Funding: political funding and civil-society funding without blackmail
+  - B03.CH10.P03.S01 — Donor disclosure: thresholds, ultimate beneficial control of donations
+  - B03.CH10.P03.S02 — Limits: caps on contributions, bundling bans, in-kind transparency
+  - B03.CH10.P03.S03 — Public matching: public funding as an anti-capture instrument
+  - B03.CH10.P03.S04 — Firewall against sector funding: prohibited repackaging and intermediaries
+  - B03.CH10.P03.S05 — Audit: periodic independent review and sanctioning for violations
+
+- B03.CH10.P04 — Revolving doors: role switching and conflicts of interest
+  - B03.CH10.P04.S01 — Role definitions: regulator, operator, auditor, vendor, lobbyist, sector lead
+  - B03.CH10.P04.S02 — Cooling-off: terms per risk role, including consultancy infiltration
+  - B03.CH10.P04.S03 — Disclosure: public declarations, conflict registers, recusals
+  - B03.CH10.P04.S04 — Incentive design: pay/career paths to reduce exits to the sector
+  - B03.CH10.P04.S05 — Enforcement: fines, bans, nullification of decisions in case of conflict
+
+- B03.CH10.P05 — Media and the information ecosystem: capture via narrative infrastructure
+  - B03.CH10.P05.S01 — Agenda-setting: think-tank stacks, expert panels, sponsored content
+  - B03.CH10.P05.S02 — Platform power: distribution, ranking, moderation as a political choke point
+  - B03.CH10.P05.S03 — Disinformation/confusion: definition shifting, metric gaming, incident amplification
+  - B03.CH10.P05.S04 — Countermeasures: open dashboards, replication tooling, source-duty
+  - B03.CH10.P05.S05 — Crisis information: measurement continuity, anti-blackout discipline, corrections
+
+- B03.CH10.P06 — Rotation systems and terms: structural anti-capture
+  - B03.CH10.P06.S01 — Term limits: key positions in audit/oversight/commons governance
+  - B03.CH10.P06.S02 — Team rotation: audit of auditors, cross-review, second-line assurance
+  - B03.CH10.P06.S03 — Randomisation: sampling of cases, assignment of inspections
+  - B03.CH10.P06.S04 — Institutional redundancy: parallel teams/implementations for contestability
+  - B03.CH10.P06.S05 — Continuity: knowledge retention despite rotation (documentation, runbooks)
+
+- B03.CH10.P07 — Vendor lock-in as capture: tooling, models, and black-box audits
+  - B03.CH10.P07.S01 — Open standards: data, interfaces, calculation rules, model cards
+  - B03.CH10.P07.S02 — Exitability: portability, escrow, second implementation, shadow computation
+  - B03.CH10.P07.S03 — Reproducibility: version pinning, changelog discipline, independent runs
+  - B03.CH10.P07.S04 — Concentration control: supplier diversity, single points of failure
+  - B03.CH10.P07.S05 — Sanctions: contract termination, bans, re-tendering, public notice
+
+- B03.CH10.P08 — Exception and definition capture: the silent channel
+  - B03.CH10.P08.S01 — Definition-shift detection: changelog anomalies, restatement gaps
+  - B03.CH10.P08.S02 — Exception stacking detection: exception ratio, renewals, selectivity
+  - B03.CH10.P08.S03 — Capture via thresholds: threshold shifts and netting tricks
+  - B03.CH10.P08.S04 — Remedy: semantic freeze, hard stops, re-authorisation
+  - B03.CH10.P08.S05 — Accountability: public rationale + judicial contestability
+
+- B03.CH10.P09 — Detection: minimum set of capture indicators and signalling
+  - B03.CH10.P09.S01 — Institutional signals: sanction rate↓, enforcement latency↑, staff churn patterns
+  - B03.CH10.P09.S02 — Economic signals: E stabilisation/↑, fee-stacks↑, concentration↑
+  - B03.CH10.P09.S03 — Governance signals: vendor concentration↑, reproducibility↓, exceptions↑
+  - B03.CH10.P09.S04 — Narrative signals: uniform talking points, source poverty, definition shift in media
+  - B03.CH10.P09.S05 — Integration: linkage to the early-warning set and escalation protocols
+
+- B03.CH10.P10 — Correction mechanisms: intervention in capture incidents
+  - B03.CH10.P10.S01 — Intervention ladder: audit escalation → governance reset → legal actions
+  - B03.CH10.P10.S02 — Rollback: reversing decisions, contracts, and tooling lock-ins
+  - B03.CH10.P10.S03 — Reconstitution: reappointment, rotation, independent review board
+  - B03.CH10.P10.S04 — Sanctions: personal, institutional, vendor-level
+  - B03.CH10.P10.S05 — Lessons and version control: structural adjustments without core breach (traceable changelog)
+
+## B03.CH11 — Conflict dynamics within OBA: internal schisms, splits, and recovery procedures
+
+- B03.CH11.P01 — Purpose and scope: internal conflict as a systemic risk in order-democracy
+  - B03.CH11.P01.S01 — Why OBA generates internal conflict (caps, ΔM, commons priority)
+  - B03.CH11.P01.S02 — Delimitation: this chapter covers conflict mechanics and recovery, not ideology
+  - B03.CH11.P01.S03 — Relation to forks/compatibility (B03.CH07) and movement (B03.CH06)
+  - B03.CH11.P01.S04 — Output: conflict typology + escalation ladder + recovery protocols
+
+- B03.CH11.P02 — Conflict sources: structural tensions in OBA governance
+  - B03.CH11.P02.S01 — ΔM allocation: distributive conflict over investments and priorities
+  - B03.CH11.P02.S02 — Commons access: scarcity, prioritisation, boundary-rule interpretation
+  - B03.CH11.P02.S03 — Caps: exception pressure, near-cap clustering, and elite splitting
+  - B03.CH11.P02.S04 — R/B: timing asymmetry, local burden concentration, swing backlash
+  - B03.CH11.P02.S05 — Measurement and audit layer: definition shifting, uncertainty, perceived technocracy
+
+- B03.CH11.P03 — Conflict modes: types of internal conflict and their signatures
+  - B03.CH11.P03.S01 — Parametric conflict: thresholds/tempo/priorities within the rails
+  - B03.CH11.P03.S02 — Interpretive conflict: classification (E vs productive), boundary rules, exposure tests
+  - B03.CH11.P03.S03 — Institutional conflict: authorities, audit findings, sanctions
+  - B03.CH11.P03.S04 — Legitimacy conflict: mandate claims, representation, procedural fairness
+  - B03.CH11.P03.S05 — Existential rupture: attack on non-negotiables (caps/commons/auditability)
+
+- B03.CH11.P04 — Schism and split dynamics: when conflict becomes a fork
+  - B03.CH11.P04.S01 — Triggers: exception explosion, sanction-rate collapse, black-box allocation
+  - B03.CH11.P04.S02 — Coalition rupture: swing groups lose, scapegoating, media capture
+  - B03.CH11.P04.S03 — Elite splitting: production vs finance, platform power vs commons
+  - B03.CH11.P04.S04 — Crisis windows: shocks as accelerators of rupture
+  - B03.CH11.P04.S05 — Fork protocol: classification, name label, and compatibility status (link to B03.CH07)
+
+- B03.CH11.P05 — Escalation architecture: conflict resolution without breaking order
+  - B03.CH11.P05.S01 — Internal procedure: complaint → mediation → arbitration/tribunal → judicial review
+  - B03.CH11.P05.S02 — Evidence discipline: logs, definition sets, audit trails, replication
+  - B03.CH11.P05.S03 — Non-suspensive defaults: preventing sabotage via procedural stacking
+  - B03.CH11.P05.S04 — Hard stops: stop conditions under measurement blackout, cap erosion, black-box allocation
+  - B03.CH11.P05.S05 — Public accountability: incident report, exception register, changelog
+
+- B03.CH11.P06 — Recovery procedures: rollback, re-authorisation, and reconstitution
+  - B03.CH11.P06.S01 — Rollback: reversing exceptions, contract lock-ins, tooling changes
+  - B03.CH11.P06.S02 — Re-authorisation: new mandate for a constitutive deviation
+  - B03.CH11.P06.S03 — Reconstitution: reappointment/rotation of bodies under capture
+  - B03.CH11.P06.S04 — Repair: restoration of commons ΔG and neutralisation of crisis rents
+  - B03.CH11.P06.S05 — Restatements: correction of time series and definition-shift bridging
+
+- B03.CH11.P07 — Internal safety rails: preventing authoritarian drift or regression during conflict
+  - B03.CH11.P07.S01 — Prohibited linkages: profiling/surveillance as “order enforcement”
+  - B03.CH11.P07.S02 — Anti-scapegoat rails: minority protection and anti-selective enforcement
+  - B03.CH11.P07.S03 — Procurement rails: preventing conflict from turning into vendor lock-in
+  - B03.CH11.P07.S04 — Crisis communication: transparency minimum, no measurement blackouts
+  - B03.CH11.P07.S05 — Judicial checks: proportionality, evidence standards, emergency sunset
+
+- B03.CH11.P08 — Stabilisation: mechanisms to structurally reduce conflict intensity
+  - B03.CH11.P08.S01 — Predictable ΔM: fixed allocation bands and transparent criteria
+  - B03.CH11.P08.S02 — Commons capacity: surge planning to limit scarcity conflict
+  - B03.CH11.P08.S03 — R/B buffers: protecting swing groups under shocks and sequencing
+  - B03.CH11.P08.S04 — Institutional redundancy: parallel audits and second implementations
+  - B03.CH11.P08.S05 — Education and language discipline: test axes as a shared grammar
+
+- B03.CH11.P09 — Integration with the democratic consistency test (B03.CH12)
+  - B03.CH11.P09.S01 — Conflict indicators as early warning: exceptions↑, sanction rate↓, reproducibility↓
+  - B03.CH11.P09.S02 — Thresholds for intervention: when escalation becomes mandatory
+  - B03.CH11.P09.S03 — Documentation: conflict logs, decisions, rollback actions (traceable changelog)
+  - B03.CH11.P09.S04 — Fork mapping: when formal (in)compatibility is established
+  - B03.CH11.P09.S05 — Lessons: adjustments without core breach in governance protocols
+
+## B03.CH12 — Closing: democratic consistency test and governance metrics
+
+- B03.CH12.P01 — Purpose and scope: democratic consistency test as the capstone (pass/fail + escalation)
+  - B03.CH12.P01.S01 — Function: detection of drift, capture, and regression within OBA governance
+  - B03.CH12.P01.S02 — Delimitation: the test assesses governance, not sector-by-sector policy content
+  - B03.CH12.P01.S03 — Relations: inputs from Book 1/2/4 (measurability, transition, information order)
+  - B03.CH12.P01.S04 — Machine-readability: fixed inputs, outputs, version IDs, and thresholds
+
+- B03.CH12.P02 — Non-negotiables in democratic form: minimum procedural requirements
+  - B03.CH12.P02.S01 — Separation of functions: execution, audit, oversight, judicial review (no role mixing)
+  - B03.CH12.P02.S02 — Contestability: objection/appeal, access to evidence, non-sabotage defaults
+  - B03.CH12.P02.S03 — Transparency minimum: definition sets, registers, dashboards, changelog discipline
+  - B03.CH12.P02.S04 — Exception discipline: sunsets, rollback, non-stackability, impact registration
+  - B03.CH12.P02.S05 — Anti-overreach: prohibited linkages and proportionality rails (privacy/control)
+
+- B03.CH12.P03 — Governance metrics (minimum set): what is continuously measured
+  - B03.CH12.P03.S01 — Capture metrics: vendor concentration, revolving-door incidents, lobby-disclosure compliance
+  - B03.CH12.P03.S02 — Enforcement metric: sanction rate, enforcement latency, recidivism rate, exception stacking
+  - B03.CH12.P03.S03 — Epistemic metric: reproducibility, audit coverage, model/rule churn, restatement frequency
+  - B03.CH12.P03.S04 — Representation metric: participation bias, inclusion, churn in commons representation
+  - B03.CH12.P03.S05 — Legitimacy metric: trust/acceptance (proxies), complaint volumes, appeal outcomes, procedural fairness
+
+- B03.CH12.P04 — Early-warning indicators: drift signatures and thresholds
+  - B03.CH12.P04.S01 — Semantic drift: definition shifting without changelog, metric-bridging gaps
+  - B03.CH12.P04.S02 — Exception drift: exception ratio↑, renewals↑, selectivity↑, sunset failure
+  - B03.CH12.P04.S03 — Black-box drift: declining contestability, closed computation rules, audit refusal patterns
+  - B03.CH12.P04.S04 — Capture drift: vendor lock-in signals, single-source procurement, audit interference
+  - B03.CH12.P04.S05 — Authoritarian drift: surveillance expansion, selective enforcement, emergency normalisation
+
+- B03.CH12.P05 — Response ladder: what follows from signals (automatic and political)
+  - B03.CH12.P05.S01 — Trigger → enhanced audit mode: scope expansion, forensic access, parallel review
+  - B03.CH12.P05.S02 — Correction → requalification/rollback: reverse decisions, contracts, tooling, and exceptions
+  - B03.CH12.P05.S03 — Hard stops: suspend allocations/decisions under black-box governance or measurement uncertainty
+  - B03.CH12.P05.S04 — Governance reset: rotation, reconstitution, second-source tooling, procurement reset
+  - B03.CH12.P05.S05 — Re-authorisation: new mandate for a constitutive deviation (incl. fork classification)
+
+- B03.CH12.P06 — Public reporting and accountability: output formats of the test
+  - B03.CH12.P06.S01 — Consistency report: scorecard per metric, thresholds, trend, status label
+  - B03.CH12.P06.S02 — Incident reporting: root cause, implicated decisions, exception log, recovery plan
+  - B03.CH12.P06.S03 — Changelog discipline: rationale, impact analysis, backward compatibility where possible
+  - B03.CH12.P06.S04 — Restatements: transparent corrections and bridging of historical series
+  - B03.CH12.P06.S05 — Audit of the test: independent review of methodology and tooling
+
+- B03.CH12.P07 — Fork and compatibility outcome: when it formally deviates
+  - B03.CH12.P07.S01 — Compatible: all non-negotiables intact; variation purely parametric
+  - B03.CH12.P07.S02 — Partially compatible: temporary emergency deviation with hard sunsets/rollback and evidence discipline
+  - B03.CH12.P07.S03 — Incompatible: structural cap erosion, black-box governance, or permanent exception explosion
+  - B03.CH12.P07.S04 — Label and naming rule: mandatory relabeling upon incompatibility
+  - B03.CH12.P07.S05 — Handover: inputs to Book 2/4 for transition and cognitive consistency tests
+
 
