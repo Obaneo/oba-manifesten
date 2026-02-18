@@ -1,12 +1,10 @@
-id: B00.CH03.README
-book: B00
-chapter: CH03
-type: readme
-status: draft
+| id            | book | chapter | type   | status |
+|---------------|------|---------|--------|--------|
+| B00.CH03.README | B00  | CH03     | readme | draft  |
 
-# B00.CH03 — Definition set I: production, extraction and commons (P/E/C)
+# B00.CH03 — Definition set I: production, extraction and commons
 
-This chapter defines the canonical P/E/C classification used throughout OBA:
+This chapter defines the canonical **P/E/C** classification used throughout OBA:
 **P** (production & maintenance), **E** (extraction), and **C** (commons contribution).
 
 P/E/C is not a rhetorical taxonomy. It is a **functional classification**: a flow is classified by its
@@ -17,38 +15,17 @@ The chapter provides:
 - the **constitutive definitions** of P, E, and C;
 - the **flow-level classification rule** (including minimum metadata);
 - the **decomposition rule** (a single payment may contain P+E and sometimes C);
-- **power as a structural parameter** (cause of E);
+- **power as a classification parameter** (structural cause of E);
 - canonical **edge/border decision rules**;
 - linkages to **R/B**, **caps (W-MAX, I-MAX)**, and **ΔM**;
 - **measurement/audit standards** and **hard stops** against OBA-washing and black-boxing.
 
-This is a high-impact chapter: later chapters inherit these definitions and MUST NOT redefine them.
-
-## Purpose, scope, normative status
-
-- **Purpose:** provide semantic closure for “productive vs extractive vs commons” at the flow level,
-  so that OBA claims are **auditable, reproducible, and contestable**.
-- **Scope:** households, firms, state, platforms, finance; micro flows and macro aggregates.
-- **Normative status:** constitutive for OBA classification. Deviations are non-conform unless a
-  formally defined extension (versioned, with compatibility notes) is explicitly adopted.
-
 ## How to use this chapter
 
-If you are writing later chapters:
-- Treat P/E/C terms here as **canonical**. Do not redefine them locally.
-- Use the edge/border rules when you introduce sector cases, instruments, or reforms.
-
-If you are building datasets or pipelines:
-- Implement the **minimum metadata set** and the decomposition logic.
-- Ensure classifications are reproducible from recorded inputs (no opaque classifiers).
-
-If you are auditing:
-- Require an **audit trail per flow/contract** and reconciliation micro→macro.
-- Apply conservative escalation rules where data is missing or controllability is weak.
-
-If you are implementing caps, ΔM rules, commons programs, or consolidation:
-- Use P/E/C outputs as inputs: E as a signal for claim-layer pressure and cap relevance;
-  C as a constrained destination for reallocation (only under explicit conditions).
+- If you are **writing any later chapter**: import P/E/C definitions from here; do not redefine them locally.
+- If you are **building datasets or pipelines**: implement minimum metadata + decomposition; avoid opaque classification.
+- If you are **auditing**: require a reproducible audit trail per flow/contract; enforce conservative escalation when data is missing.
+- If you are **implementing caps, ΔM rules, commons programs, or consolidation**: treat P/E/C outputs as canonical inputs and constraints.
 
 ## Structure
 
@@ -75,4 +52,3 @@ Changes here are high-impact and typically imply major version implications:
 - altered edge/border decision rules affecting classification outcomes.
 
 Non-auditable or black-box classification is non-conform by default.
-
